@@ -1,0 +1,4 @@
+train: E:\Project\yolo\train\images
+val: E:\Project\yolo\train\images
+nc: 6
+names: ['Hello', 'I LOVE YOU', 'NO', 'Yes', 'Thank You','Please']

@@ -15,7 +15,9 @@ This repository contains the implementation of an **American Sign Language (ASL)
 │   └── README.md               # Instructions for YOLOv5 setup
 │
 │── 📂 YOLOV11
-│   ├── yolo11m.pt              # Trained YOLOv11 model weights
+│   ├── model.ipynb             # YOLOv11 IPYNB file
+│   ├── yolo11m.pt              # YOLOv11 model weights
+│   ├── yolov11m_best_10.pt     # Trained YOLOv11 model weights
 │
 │── README.md                  # Main project documentation
 ```
